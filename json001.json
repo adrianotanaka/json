@@ -1,0 +1,28 @@
+{
+    "infos": [
+        {
+                "id": "0",
+                "name": "XXXXX",
+                "email": "XXXXX",
+                "address": "xx-xx-xxxx,x - street, x - country",
+                "gender" : "male",
+                "phone": {
+                    "mobile": "+91 0000000000",
+                    "home": "00 000000",
+                    "office": "00 000000"
+                }
+        },
+        {
+                "id": "1",
+                "name": "YYYYYY",
+                "email": "YYYYY",
+                "address": "xx-xx-xxxx,x - street, x - country",
+                "gender" : "male",
+                "phone": {
+                    "mobile": "+91 0000000000",
+                    "home": "00 000000",
+                    "office": "00 000000"
+                }
+        }
+    ]
+}
